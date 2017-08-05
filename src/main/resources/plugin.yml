@@ -1,0 +1,12 @@
+name: DarkSky
+version: 0.1
+description: Skyblock Plugin
+author: Darkluke1111
+authors: []
+
+main: de.darkluke1111.darkSky.DarkSky
+database: false
+depend: []
+
+commands:
+permissions:
